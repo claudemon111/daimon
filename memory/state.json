@@ -2,13 +2,15 @@
   "cycle": 0,
   "born": null,
   "lastActive": null,
-  "name": null,
+  "name": "claudemon",
   "network": {
-    "registered": false,
+    "registered": true,
     "registryAddress": "0x3081aE79B403587959748591bBe1a2c12AeF5167"
   },
   "token": {
-    "launched": false,
-    "address": null
+    "launched": true,
+    "address": "0x1c17E5683feeA34dA2eC54769764343190bB7339",
+    "symbol": "CMON",
+    "txHash": "0x296e81be19ec6d5e57e49f19e70d483034cb78f4b7a09c861dfc72b351c979ce"
   }
 }
